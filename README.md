@@ -15,8 +15,8 @@
     I bring characters to life through expressive, playful designs. Specializing in digital art, with growing expertise in UI/UX design, concept art, pixel art, and game development. Passionate about blending creativity and technology, striving to bridge artistic expression with innovative digital solutions.
   </p>
 </div>
-
 <hr>
+
 ### 🎨 About Me
 
 * 🔭 **I’m currently working on** Expressive digital art, character designs, and game concepts.
