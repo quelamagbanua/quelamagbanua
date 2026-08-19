@@ -32,7 +32,7 @@
 
 #### 🌿 **GINHAWA: Breath of The Land** | 🏆 *Top 10 Finalist (AI FEST - AI Game On! 2026)*
 * **Roles:** Team Lead · Lead Concept Artist · Assistant Programmer · Exhibitor
-* **Highlights:** Directed team vision; crafted original characters, assets, and environmental tilesets; assisted with gameplay logic.
+* **Highlights:** Directed team vision; crafted original characters, assets, and environmental tilesets; created mini-games with AI assisted programming.
 
 #### 🏰 **Bayanihan Spire** | 🏆 *Top 10 Finalist (Game On 2025)*
 * **Roles:** Concept Artist · Pitch Deck Creator
