@@ -30,11 +30,11 @@
 
 ### 🎮 Featured Game Projects
 
-#### 🌿 **GINHAWA: Breath of The Land** | 🏆 *Top 10 Finalist (AI FEST - AI Game On! 2026)*
+#### 🌿 **GINHAWA: Breath of The Land** | 🏆 *Top 10 Finalists (AI FEST - AI Game On! 2026)*
 * **Roles:** Team Lead · Lead Concept Artist · Assistant Programmer · Exhibitor
 * **Highlights:** Directed team vision; illustrated original characters, assets, and environmental tilesets using Aseprite; prompt-engineered custom AI music; created mini-games with AI-assisted programming.
 
-#### 🏰 **Bayanihan Spire** | 🏆 *Top 10 Finalist (Game On 2025)*
+#### 🏰 **Bayanihan Spire** | 🏆 *Top 10 Finalists (Game On 2025)*
 * **Roles:** Concept Artist · Pitch Deck Creator
 * **Highlights:** Designed and illustrated full card layouts and artwork; narrated (voice-acted) and edited the game trailer; created marketing printouts and the official competition pitch deck.
 
