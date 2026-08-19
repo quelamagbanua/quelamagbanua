@@ -2,9 +2,9 @@
 
   <h1>Hi! I'm Quela 👋</h1>
 
-  <p>
-    <b>Digital Artist</b> · <b>UI/UX Designer</b> · <b>Aspiring Game Developer</b>
-    I study **Bachelor of Science in Entertainment and Multimedia Computing** at **West Visayas State University**
+ <p>
+    <b>Digital Artist</b> · <b>UI/UX Designer</b> · <b>Aspiring Game Developer</b><br>
+    I study <b>Bachelor of Science in Entertainment and Multimedia Computing</b> at <b>West Visayas State University</b>
   </p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=quelamagbanua&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
