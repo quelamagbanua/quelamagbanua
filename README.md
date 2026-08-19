@@ -28,7 +28,7 @@
 
 <hr>
 
-### 🎮 Featured Projects
+### 🎮 Featured Game Projects
 
 #### 🌿 **GINHAWA: Breath of The Land** | 🏆 *Top 10 Finalist (AI FEST - AI Game On! 2026)*
 * **Roles:** Team Lead · Lead Concept Artist · Assistant Programmer · Exhibitor
