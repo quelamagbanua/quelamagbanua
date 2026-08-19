@@ -1,7 +1,17 @@
 <div align="center">
   <h1>Hi! I'm Quela 👋</h1>
   <p>
+    <b>Digital Artist</b> · <b>UI/UX Designer</b> · <b>Game Dev Enthusiast</b>
+  </p>
+  
+<hr>
+  <p>
     I bring characters to life through expressive, playful designs. Specializing in digital art, with growing expertise in UI/UX design, concept art, pixel art, and game development. Passionate about blending creativity and technology, striving to bridge artistic expression with innovative digital solutions.
+  </p>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&logo=github&style=flat" alt="Followers" />
   </p>
 </div>
 
