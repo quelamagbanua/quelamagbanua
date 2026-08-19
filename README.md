@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi! I'm Quela 👋</h1>
     <b>Digital Artist</b> · <b>UI/UX Designer</b> · <b>Aspiring Game Developer</b>
-  
+  <br>
   <p>
     <img src="https://komarev.com/ghpvc/?username=quelamagbanua&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/quelamagbanua?label=Followers&logo=github&style=flat" alt="Followers" />
