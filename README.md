@@ -16,6 +16,7 @@
   </p>
 </div>
 
+<hr>
 ### 🎨 About Me
 
 * 🔭 **I’m currently working on** Expressive digital art, character designs, and game concepts.
