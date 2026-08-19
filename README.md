@@ -12,7 +12,8 @@
   
 <hr>
   <p>
-    I bring characters to life through expressive, playful designs. Specializing in digital art, with growing expertise in UI/UX design, concept art, pixel art, and game development. Passionate about blending creativity and technology, striving to bridge artistic expression with innovative digital solutions.
+    I'm studying **Bachelor of Science in Entertainment and Multimedia Computing** at **West Visayas State University**
+  I bring characters to life through expressive, playful designs. Specializing in digital art, with growing expertise in UI/UX design, concept art, pixel art, and game development. Passionate about blending creativity and technology, striving to bridge artistic expression with innovative digital solutions.
   </p>
 </div>
 <hr>
