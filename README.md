@@ -28,5 +28,21 @@
 
 <hr>
 
+### 🎮 Featured Projects
+
+#### 🌿 **GINHAWA: Breath of The Land** | 🏆 *Top 10 Finalist (AI FEST - AI Game On! 2026)*
+* **Roles:** Team Lead · Lead Concept Artist · Assistant Programmer · Exhibitor
+* **Highlights:** Directed team vision; crafted original characters, assets, and environmental tilesets; assisted with gameplay logic.
+
+#### 🏰 **Bayanihan Spire** | 🏆 *Top 10 Finalist (Game On 2025)*
+* **Roles:** Concept Artist · Pitch Deck Creator
+* **Highlights:** Designed full card artwork; created marketing printouts and the official competition pitch deck.
+
+#### 🥊 **Beatdown Hallways** | 🕹️ *Academic Project*
+* **Roles:** Team Lead · UI/UX Designer · Level Designer · Media Producer
+* **Highlights:** Managed production pipeline; designed UI, level architecture, logo, and game trailer; co-programmed core mechanics.
+
+<hr>
+
 ### 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
