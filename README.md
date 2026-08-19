@@ -1,8 +1,6 @@
 <div align="center">
   <h1>Hi! I'm Quela 👋</h1>
-  <p>
     <b>Digital Artist</b> · <b>UI/UX Designer</b> · <b>Aspiring Game Developer</b>
-  </p>
   
 <hr>
   <p>
