@@ -4,6 +4,7 @@
 
   <p>
     <b>Digital Artist</b> · <b>UI/UX Designer</b> · <b>Aspiring Game Developer</b>
+    I study **Bachelor of Science in Entertainment and Multimedia Computing** at **West Visayas State University**
   </p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=quelamagbanua&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -12,7 +13,6 @@
   
 <hr>
   <p>
-    I'm studying **Bachelor of Science in Entertainment and Multimedia Computing** at **West Visayas State University**
   I bring characters to life through expressive, playful designs. Specializing in digital art, with growing expertise in UI/UX design, concept art, pixel art, and game development. Passionate about blending creativity and technology, striving to bridge artistic expression with innovative digital solutions.
   </p>
 </div>
