@@ -1,4 +1,4 @@
-### 🎨 About Me
+# 🎨 About Me
 
 * 🔭 **I’m currently working on** Expressive digital art, character designs, and game concepts.
 * 🌱 **I’m currently learning** UI/UX Design, Concept Art, Character Designs, Pixel Art, and Game Development.
