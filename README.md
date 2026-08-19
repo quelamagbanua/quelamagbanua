@@ -10,8 +10,8 @@
   </p>
   
   <p>
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&logo=github&style=flat" alt="Followers" />
+    <img src="https://komarev.com/ghpvc/?username=quelamagbanua&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/quelamagbanua?label=Followers&logo=github&style=flat" alt="Followers" />
   </p>
 </div>
 
